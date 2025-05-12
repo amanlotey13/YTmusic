@@ -17,7 +17,7 @@ function App() {
             </li>
             <li>
               <img className="invert" src="search.svg" alt="search" />
-              Search 
+              Search box
             </li>
           </ul>
         </div>
